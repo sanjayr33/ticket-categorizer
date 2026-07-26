@@ -42,7 +42,6 @@ ticket-categorizer/
 ├── tickets.csv
 ├── requirements.txt
 ├── README.md
-└── .gitignore
 ```
 
 ## 🧠 Machine Learning Approach
