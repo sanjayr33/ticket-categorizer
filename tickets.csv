@@ -1,0 +1,25 @@
+subject,body,category
+Payment failed,"My payment was declined but money was deducted from my account.",Billing
+Wrong invoice,"The amount shown on my latest invoice is incorrect.",Billing
+Refund request,"I cancelled my order and would like to request a refund.",Billing
+Duplicate charge,"I was charged twice for the same service.",Billing
+Subscription payment,"I have a question regarding my monthly subscription charge.",Billing
+Invoice copy,"Please send me a copy of my latest invoice.",Billing
+Login issue,"I cannot log in to my account after resetting my password.",Technical
+Application error,"The application crashes whenever I try to upload a file.",Technical
+Server unavailable,"The server is down and our team cannot access the system.",Technical
+Password reset,"The password reset link is not working.",Technical
+Slow system,"The application has become extremely slow today.",Technical
+Connection problem,"I am unable to connect to the company VPN.",Technical
+Leave request,"I would like to apply for three days of annual leave.",HR
+Salary question,"I have a question regarding my salary for this month.",HR
+Payslip request,"Please provide my payslip for the previous month.",HR
+Benefits information,"I need information about employee health benefits.",HR
+Holiday policy,"Can you explain the company's holiday policy?",HR
+Employee details,"I need to update my employee information.",HR
+Office hours,"What are the office working hours tomorrow?",General
+Contact information,"Can you provide the contact details for your office?",General
+Service information,"I would like more information about the services you provide.",General
+Office location,"Where is your nearest office located?",General
+General question,"I have a general question about the company.",General
+Working days,"Is the office open this Saturday?",General
